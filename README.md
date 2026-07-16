@@ -107,6 +107,6 @@ An enterprise-style application with MVC architecture, a normalized MySQL databa
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=methlygupta23&color=blue&style=flat-square" alt="profile views"/>
-</p>
+</p> -->
