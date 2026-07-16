@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-- 🎓 B.E. in Electrical & Electronic Engineering, Bangalore Institute of Technology (2023–2027)
+- 🎓 Bachelor of Engineering, Bangalore Institute of Technology
 - 🔧 Full-stack developer — Node.js, Express.js, React.js, MySQL
 - 🌐 Built a **multi-threaded Deep Packet Inspection engine** in Java (TLS SNI extraction, 4-stage concurrent pipeline)
 - 🧠 Built **Own AI** — a vector database + RAG system in Java from scratch, zero third-party dependencies
@@ -99,7 +99,7 @@ An enterprise-style application with MVC architecture, a normalized MySQL databa
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=methlygupta23&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 🧩 LeetCode Stats (auto-updates as you solve)
+### 🧩 LeetCode Stats 
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/methly_gupta_?theme=dark&font=baloo2&ext=heatmap"/>
